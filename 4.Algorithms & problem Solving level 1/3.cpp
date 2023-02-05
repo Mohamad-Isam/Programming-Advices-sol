@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-enum enNumberType (Odd = 1, Even = 2);
+enum enNumberType {Odd = 1, Even = 2};
 
 int readNumber()
 {

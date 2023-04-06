@@ -1,3 +1,12 @@
+/****
+-this code generate array of strings : string is a random key in the form XXXX-XXXX-XXXX-XXXX 
+-I used vector for its efficiency in these cases
+
+*****/
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
